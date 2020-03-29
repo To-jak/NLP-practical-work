@@ -3,3 +3,6 @@ Some NLP work I did during my post graduate master's degree in Artificial Intell
 
 # Sentiment Analysis with Bayesian Classifier
 Full implementation of a binary bayesian classifier for sentiment analysis on movie reviews.
+
+# Training of deep Language Model with PyTorch
+Construction and training of a simple deep language model with PyTorch library.
